@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "tdjson-rs",
+    "tdjson-sys",
+    "tdlib-types",
+    "tl-codegen"
+]

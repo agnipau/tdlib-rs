@@ -1,0 +1,12 @@
+[submodule "tl-codegen"]
+	path = tl-codegen
+	url = https://github.com/agnipau/tl-codegen
+[submodule "tdlib-types"]
+	path = tdlib-types
+	url = https://github.com/agnipau/tdlib-types
+[submodule "tdjson-sys"]
+	path = tdjson-sys
+	url = https://github.com/agnipau/tdjson-sys
+[submodule "tdjson-rs"]
+	path = tdjson-rs
+	url = https://github.com/agnipau/tdjson-rs
